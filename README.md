@@ -16,13 +16,18 @@
 
 ## 👨‍💻 About Me
 
-**Backend & cloud developer who started on the data side — now finishing a Master of Applied Computer Science at Dalhousie University (GPA 4.0/4.3, graduating December 2026).**
+I'm currently pursuing my Master's in Applied Computer Science at Dalhousie University and working as a Full Stack AI Developer Intern at DeepSense.
+I enjoy building things, figuring out how they work, and finding ways to make them better. My experience includes full-stack development, data analytics, and cloud computing, and lately, I've been spending more time exploring AI and how to integrate it into real-world applications.
 
-I began as a digital data analyst at Madison World (HiveMinds), living in Power BI dashboards and Google Analytics reports. The more time I spent explaining numbers, the more I wanted to build the systems that produce them — the APIs, the schemas, the pipelines. So that's what I do now.
+* 💻 Working with Python, React, Node.js, SQL, AWS, and Docker.
+* ☁️ Graduate Teaching Assistant for Cloud Computing at Dalhousie University.
+* 📊 Previously worked as a Digital Data Analyst, where I used Python, SQL, and Power BI to automate reporting and work with data.
+* 🌱 Currently learning more about AI/ML, cloud technologies, and software architecture.
+* 🤝 Always interested in connecting with developers and collaborating on interesting projects.
+* 💼 Open to full-time opportunities starting January 2027 in Software Development, AI, Cloud, and Data.
+* 📍 Available to relocate anywhere across Canada.
 
-These days I build serverless platforms on AWS, event-driven systems that span clouds, and REST APIs that ship with tests, documentation, and a CI/CD pipeline attached. I care about the unglamorous parts: schemas designed before the first endpoint, deploys that happen on merge, and services that are boring in the best possible way.
-
-Currently on a fall co-op building the intake and admin interface for an AI-powered resume matching platform, and TAing Cloud Computing at Dalhousie. Open to full-time backend, cloud, and data roles starting early 2027.
+Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/jashwanthpc)!
 
 ## 🛠️ Core Tech Stack
 
