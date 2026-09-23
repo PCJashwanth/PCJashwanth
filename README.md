@@ -2,11 +2,13 @@
 
 # Hi 👋, I'm Jashwanth
 
-<img src="banner.svg" alt="Software Developer · Data Analyst · Cloud" width="100%">
+<img src="banner.svg" alt="Software Developer · Data Analyst · Cloud · AI/ML" width="100%">
 
 <br>
 
 <a href="https://www.linkedin.com/in/jashwanthpc"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-1F6FEB?style=for-the-badge" alt="Portfolio"></a>
+<a href="#"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
