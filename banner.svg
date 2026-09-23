@@ -1,56 +1,22 @@
 <svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Software Developer, Data Analyst, Cloud. Open to full-time, early 2027.">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B1220"/>
-      <stop offset="0.55" stop-color="#0E1830"/>
-      <stop offset="1" stop-color="#101E3C"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22D3EE"/>
-      <stop offset="0.5" stop-color="#3B82F6"/>
-      <stop offset="1" stop-color="#8B5CF6"/>
-    </linearGradient>
+    <radialGradient id="b1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#22D3EE" stop-opacity="0.45"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="b2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0.42"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="b3" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#EC4899" stop-opacity="0.35"/><stop offset="1" stop-color="#EC4899" stop-opacity="0"/></radialGradient>
+    <radialGradient id="b4" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#3B82F6" stop-opacity="0.35"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
   </defs>
+  <rect width="1280" height="320" fill="#0B1020"/>
+  <ellipse cx="190" cy="30" rx="540" ry="270" fill="url(#b1)"/>
+  <ellipse cx="1140" cy="110" rx="520" ry="280" fill="url(#b2)"/>
+  <ellipse cx="620" cy="350" rx="560" ry="240" fill="url(#b3)"/>
+  <ellipse cx="880" cy="-20" rx="420" ry="220" fill="url(#b4)"/>
 
-  <rect width="1280" height="320" fill="url(#bg)"/>
+  <text x="640" y="136" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">Software Developer &#183; Data Analyst &#183; Cloud</text>
+  <text x="640" y="182" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#DCE3F2" letter-spacing="1">Python &#183; Node.js &#183; AWS &#183; SQL &#183; React &#183; Docker &#183; CI/CD</text>
 
-  <!-- circuit accents: left -->
-  <g stroke="#1E3A5F" stroke-width="2" fill="none" opacity="0.9">
-    <polyline points="0,70 120,70 160,110 240,110"/>
-    <polyline points="0,250 90,250 130,210 210,210"/>
-    <polyline points="60,320 60,280 110,280"/>
-  </g>
-  <g fill="#22D3EE">
-    <circle cx="240" cy="110" r="4"/>
-    <circle cx="210" cy="210" r="4" fill="#4ADE80"/>
-    <circle cx="110" cy="280" r="3.5" fill="#8B5CF6"/>
-  </g>
-
-  <!-- circuit accents: right -->
-  <g stroke="#1E3A5F" stroke-width="2" fill="none" opacity="0.9">
-    <polyline points="1280,60 1170,60 1130,100 1050,100"/>
-    <polyline points="1280,240 1190,240 1150,200 1070,200"/>
-    <polyline points="1220,320 1220,275 1165,275"/>
-  </g>
-  <g fill="#22D3EE">
-    <circle cx="1050" cy="100" r="4"/>
-    <circle cx="1070" cy="200" r="4" fill="#4ADE80"/>
-    <circle cx="1165" cy="275" r="3.5" fill="#8B5CF6"/>
-  </g>
-
-  <!-- headline -->
-  <text x="640" y="140" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="700" fill="#E6EDF3" letter-spacing="0.5">Software Developer &#183; Data Analyst &#183; Cloud</text>
-
-  <!-- tech line -->
-  <text x="640" y="188" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="400" fill="#8B99AD" letter-spacing="1">Python &#183; Node.js &#183; AWS &#183; SQL &#183; React &#183; Docker &#183; CI/CD</text>
-
-  <!-- open-to-work pill -->
   <g>
-    <rect x="400" y="222" width="480" height="44" rx="22" fill="#0F241C" stroke="#1E4D36" stroke-width="1.5"/>
-    <circle cx="438" cy="244" r="5" fill="#4ADE80"/>
-    <text x="662" y="250" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#D1FAE5" letter-spacing="2">OPEN TO FULL-TIME &#183; EARLY 2027</text>
+    <rect x="418" y="216" width="452" height="46" rx="23" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.5"/>
+    <circle cx="444" cy="239" r="5" fill="#4ADE80"/>
+    <text x="666" y="245" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" letter-spacing="2">OPEN TO FULL-TIME &#183; EARLY 2027</text>
   </g>
-
-  <!-- bottom accent bar -->
-  <rect x="0" y="314" width="1280" height="6" fill="url(#accent)"/>
 </svg>
