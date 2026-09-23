@@ -118,29 +118,50 @@ Feel free to explore my repositories or connect with me on [LinkedIn](https://ww
 
 Sep 2026 – Present · Halifax, NS
 
-- Building the student-intake web app and admin interface for an AI resume matching & ranking platform — moving intake off Google Forms, and shaping JD-upload-time filtering so the agentic scorer processes a far smaller candidate pool.
+- Developing the student resume-submission web app and the admin interface for retrieving shortlisted candidates on an AI-powered resume screening platform, hosted end-to-end on AWS.
+- Building agentic AI workflows with the LangGraph framework that automate resume shortlisting, sharply reducing manual screening effort for program managers.
 
 <img src="https://img.shields.io/badge/DALHOUSIE_UNIVERSITY-242424?style=for-the-badge" alt="Dalhousie University"> <img src="https://img.shields.io/badge/TEACHING_ASSISTANT_·_CLOUD_COMPUTING-B45309?style=for-the-badge" alt="Teaching Assistant">
 
 Sep 2026 – Present · Halifax, NS
 
-- Deliver tutorial sessions for CSCI 4145/5409 Cloud Computing, starting from containers and Docker.
+- Deliver tutorial sessions for CSCI 4145/5409 Cloud Computing, starting from containers and Docker fundamentals.
+- Prepare hands-on tutorial material that takes students from Docker basics through building and running containerized applications.
 
 <img src="https://img.shields.io/badge/MADISON_WORLD_(HIVEMINDS)-4B0082?style=for-the-badge" alt="Madison World HiveMinds"> <img src="https://img.shields.io/badge/DIGITAL_DATA_ANALYST-B45309?style=for-the-badge" alt="Digital Data Analyst">
 
 Jan 2025 – May 2025 · Bengaluru, India
 
-- Google Analytics and Google Ads performance reporting, Power BI dashboards, and SQL/Python analysis for client campaigns.
+- Analyzed 50+ digital ad campaigns for brands including Cult.fit, Dr. Agarwal's Eye Hospital, and Gold's Gym, building Power BI and Excel dashboards to track spend, reach, CTR, and conversions in real time.
+- Automated end-to-end reporting with Python (pandas, NumPy) and SQL — cutting weekly report-preparation time by 50% — and used Google Analytics and Google Ads data to flag under-performing ad sets and improve ROI.
 
 <img src="https://img.shields.io/badge/ROOMAN_TECHNOLOGIES_(NSDC)-1B5E20?style=for-the-badge" alt="Rooman Technologies"> <img src="https://img.shields.io/badge/APPLICATION_DEVELOPER_·_WEB_%26_MOBILE-B45309?style=for-the-badge" alt="Application Developer">
 
 Sep 2024 – Feb 2025 · Bengaluru, India
 
-- Completed NSQF Level 5 with **Grade A (91.6%)**.
+- Built and tested full-stack application features across front-end UI, backend APIs, and database integration in the NSDC-aligned developer program, working with Git/GitHub workflows and CI pipelines.
+- Completed the program at NSQF Level 5 with **Grade A (91.6%)**.
 
 <img src="https://img.shields.io/badge/VARCONS_TECHNOLOGIES-6D28D9?style=for-the-badge" alt="Varcons Technologies"> <img src="https://img.shields.io/badge/FULL_STACK_WEB_DEVELOPER-B45309?style=for-the-badge" alt="Full Stack Web Developer">
 
 Oct 2023 – Dec 2023 · Bengaluru, India
+
+- Designed and built an end-to-end full-stack web project — responsive React front end, Node.js/Express backend, and MySQL persistence with full CRUD workflows.
+- Used Git and GitHub for version control, branching, and code reviews across the complete development lifecycle.
+
+<img src="https://img.shields.io/badge/CRANES_VARSITY-00695C?style=for-the-badge" alt="Cranes Varsity"> <img src="https://img.shields.io/badge/IOT_EDGE_%26_GATEWAY-B45309?style=for-the-badge" alt="IoT Edge Node and Gateway">
+
+Oct 2023 – Nov 2023 · Bengaluru, India
+
+- Completed IoT training covering Python fundamentals, sensor interfacing, and MicroPython microcontroller programming across edge nodes, gateways, and sensor-to-cloud pipelines.
+- Built and demonstrated the capstone project "Automated Shipment Industry," integrating sensors, edge logic, and IoT-style data flow for shipment tracking.
+
+<img src="https://img.shields.io/badge/KS_INSTITUTE_OF_TECHNOLOGY-455A64?style=for-the-badge" alt="KS Institute of Technology"> <img src="https://img.shields.io/badge/JAVA_INTERN-B45309?style=for-the-badge" alt="Java Intern">
+
+Sep 2022 – Oct 2022 · Bengaluru, India
+
+- Completed structured core-Java training — OOP, control flow, collections, and exception handling — implementing programs across algorithms and data structures.
+- Built the object-oriented programming foundation that carried into later C++, Python, and full-stack development work.
 
 *Full details on my [LinkedIn](https://www.linkedin.com/in/jashwanthpc).*
 
